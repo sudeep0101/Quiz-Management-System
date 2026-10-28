@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.backup
+*.backup_*
+*_backup.py
+*_backup.db
+main_before_*.py
+main_with_charts_backup.py
+backups/
+
+*.db
